@@ -1,1 +1,4 @@
 /vendor linguist-generated=true
+
+* text=auto
+*.go text eol=lf
